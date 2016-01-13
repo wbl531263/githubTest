@@ -16,6 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"真麻烦");
+    NSLog(@"真麻烦");
+    NSLog(@"真麻烦");
+    NSLog(@"真麻烦");
+    NSLog(@"真麻烦");
+    NSLog(@"真麻烦");
+    NSLog(@"真麻烦");
+    NSLog(@"真麻烦");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
